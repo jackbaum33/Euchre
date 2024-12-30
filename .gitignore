@@ -1,0 +1,5 @@
+*.exe
+*.dSYM
+*.correct
+*.in
+*.txt
